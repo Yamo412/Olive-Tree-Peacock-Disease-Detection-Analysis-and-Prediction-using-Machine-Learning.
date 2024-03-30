@@ -18,8 +18,8 @@ This project aims to develop a Machine Learning model to predict and analyze the
 
 Ensure Python 3.x is installed along with the necessary libraries. Clone this repository to your local machine and navigate into the project directory.
 
-```git clone <repository-url>
-cd <project-directory>```
+```git clone <repository-url>```
+```cd <project-directory>```
 
 **Usage**
 
